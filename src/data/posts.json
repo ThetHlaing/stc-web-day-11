@@ -1,0 +1,33 @@
+[{
+    "title" : "Reading Between the Lines I Couldn’t See",
+    "summary" : "I was born Deaf and lost my vision as an adult — but reading is my constant companion",
+    "feature_img" : "https://cdn-images-1.medium.com/max/1980/1*lxqQr_dixS-JxIK8ncuCQg.jpeg",
+    "content" : "The first time books changed my life, I didn’t even knew what a book was. <br/>My mother reeled when I was diagnosed as totally Deaf at four months old. She called it “the destruction of dreams.”",    
+    "updated_at" : "Nov 3rd 2018",
+    "author" : {
+        "name" : "Cristina Hartmann",
+        "avator" : "https://cdn-images-1.medium.com/fit/c/66/66/0*L6_m-js-slan2BTF.jpeg"        
+    }
+},
+{
+    "title" : "Design Better Forms",
+    "summary" : "Common mistakes designers make and how to fix them",
+    "feature_img" : "https://cdn-images-1.medium.com/max/2000/1*VvQeOFsY57NJxtZmKyRnHA.jpeg",
+    "content" : "Whether it is a signup flow, a multi-view stepper, or a monotonous data entry interface, forms are one of the most important components of digital product design. This article focuses on the common dos and don’ts of form design. Keep in mind that these are general guideline and there are exceptions to every rule.",    
+    "updated_at" : "Nov 3rd 2018",
+    "author" : {
+        "name" : "Cristina Hartmann",
+        "avator" : "https://cdn-images-1.medium.com/fit/c/66/66/0*L6_m-js-slan2BTF.jpeg"        
+    }
+},
+{
+    "title" : "Reading Between the Lines I Couldn’t See",
+    "summary" : "I was born Deaf and lost my vision as an adult — but reading is my constant companion",
+    "feature_img" : "https://cdn-images-1.medium.com/max/1980/1*lxqQr_dixS-JxIK8ncuCQg.jpeg",
+    "content" : "The first time books changed my life, I didn’t even knew what a book was. <br/>My mother reeled when I was diagnosed as totally Deaf at four months old. She called it “the destruction of dreams.”",    
+    "updated_at" : "Nov 3rd 2018",
+    "author" : {
+        "name" : "Cristina Hartmann",
+        "avator" : "https://cdn-images-1.medium.com/fit/c/66/66/0*L6_m-js-slan2BTF.jpeg"        
+    }
+}]
